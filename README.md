@@ -1,6 +1,8 @@
 # Gestor de Presupuestos Personales 
 
-Contexto del Proyecto: Gestor de Presupuestos Personales
+Contexto del Proyecto: 
+Gestor de Presupuestos Personales
+
 Contexto:
 La gestión eficaz de las finanzas personales es una habilidad esencial en la actualidad. Un gestor de presupuesto te proporciona las herramientas necesarias para organizar tus ingresos y gastos, analizar tus hábitos de consumo y, en última instancia, mejorar tu bienestar financiero. En un mundo donde las transacciones son muy frecuentes, mantener un control sobre los gastos es un desafío. Un gestor de presupuesto personal es una solución práctica que ayuda a organizar las finanzas, clasificando los ingresos y gastos para que se puedan tomar decisiones informadas y alcanzar metas financieras.
 
